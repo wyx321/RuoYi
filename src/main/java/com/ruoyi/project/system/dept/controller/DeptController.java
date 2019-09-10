@@ -51,7 +51,7 @@ public class DeptController extends WebController
     }
 
     /**
-     * 新增部门
+     * 新增部门11
      */
     @GetMapping("/add/{parentId}")
     public String add(@PathVariable("parentId") Long parentId, ModelMap mmap)
