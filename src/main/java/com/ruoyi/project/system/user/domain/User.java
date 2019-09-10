@@ -206,7 +206,7 @@ public class User extends BaseEntity
     }
 
     /**
-     * 生成随机盐
+     * 生成随机盐123
      */
     public void randomSalt()
     {
